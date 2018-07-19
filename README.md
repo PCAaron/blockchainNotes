@@ -37,7 +37,8 @@ https://v.qq.com/x/page/m0314h6mgyp.html?start=178
 ### Ethereum Developers:[https://ethereumdev.io/](https://ethereumdev.io/)
 
 
-## 喜欢的朋友给个star或者赞赏吧
+
+## star or 打赏
 ### Imtoken地址:0x4a6Ac825993737a4f7F1ed12fcAc1b27e247c55A
 ### 打赏码
 ![赞助支持](images/zz.jpg)
