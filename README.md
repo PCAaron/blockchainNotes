@@ -32,14 +32,13 @@ https://v.qq.com/x/page/m0314h6mgyp.html?start=178
 * Solidity官方版:[http://solidity.readthedocs.io/en/v0.4.24/index.html](http://solidity.readthedocs.io/en/v0.4.24/index.html)
 * web3.js中文版:[http://web3.tryblockchain.org/index.html](http://web3.tryblockchain.org/index.html)
 * web3.js官方版：[https://web3js.readthedocs.io/en/1.0/](https://web3js.readthedocs.io/en/1.0/)
-* 学习路线：入门篇 -> 进阶篇 -> 实战篇
 * Remix浏览器版:[https://remix.ethereum.org/](https://remix.ethereum.org/)
 * Ethereum Developers:[https://ethereumdev.io/](https://ethereumdev.io/)
-
+* 学习路线：入门篇 -> 进阶篇 -> 实战篇
 
 
 ## star or 打赏
-> Imtoken地址:0x4a6Ac825993737a4f7F1ed12fcAc1b27e247c55A
+> Imtoken地址: 0x4a6Ac825993737a4f7F1ed12fcAc1b27e247c55A
 
 > 打赏码
 ![赞助支持](images/zz.jpg)
