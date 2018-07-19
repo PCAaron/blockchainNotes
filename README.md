@@ -34,6 +34,10 @@ https://v.qq.com/x/page/m0314h6mgyp.html?start=178
 ### web3.js官方版：[https://web3js.readthedocs.io/en/1.0/](https://web3js.readthedocs.io/en/1.0/)
 ### 学习路线：入门篇 -> 进阶篇 -> 实战篇
 ### Remix浏览器版:[https://remix.ethereum.org/](https://remix.ethereum.org/)
+### Ethereum Developers:[https://ethereumdev.io/](https://ethereumdev.io/)
 
-喜欢的朋友给个star或者赞赏吧
+
+## 喜欢的朋友给个star或者赞赏吧
+### Imtoken地址:0x4a6Ac825993737a4f7F1ed12fcAc1b27e247c55A
+### 打赏码
 ![赞助支持](images/zz.jpg)
