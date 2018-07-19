@@ -27,3 +27,9 @@ https://v.qq.com/x/page/m0314h6mgyp.html?start=178
 * 可靠数据库
 整个系统将通过分数据库的形式，让每个参与节点都能获得一份完整数据库的拷贝。除非能够同时控制整个系统中超过51%的节点，否则单个节点上对数据库的修改是无效的，也无法影响其他节点上的数据内容。因此参与系统中的节点越多和计算能力越强，该系统中的数据安全性越高。
 
+## 补充
+### Solidity翻译版本：[http://www.tryblockchain.org/index.html](http://www.tryblockchain.org/index.html)
+### Solidity官方版:[http://solidity.readthedocs.io/en/v0.4.24/index.html](http://solidity.readthedocs.io/en/v0.4.24/index.html)
+### web3.js中文版:[http://web3.tryblockchain.org/index.html](http://web3.tryblockchain.org/index.html)
+### web3.js官方版：[https://web3js.readthedocs.io/en/1.0/](https://web3js.readthedocs.io/en/1.0/)
+### 学习路线：入门篇 -> 进阶篇 -> 实战篇
